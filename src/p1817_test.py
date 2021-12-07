@@ -8,20 +8,11 @@ sol = Solution()
 examples = []
 solutions = []
 
-examples.append(["ABC","ACB","ABC","ACB","ACB"])
-solutions.append("ACB")
+examples.append(([[0,5],[1,2],[0,2],[0,5],[1,3]], 5))
+solutions.append([0,2,0,0,0])
 
-examples.append(["WXYZ","XYZW"])
-solutions.append("XWYZ")
-
-examples.append(["ZMNAGUEDSJYLBOPHRQICWFXTVK"])
-solutions.append("ZMNAGUEDSJYLBOPHRQICWFXTVK")
-
-examples.append(["BCA","CAB","CBA","ABC","ACB","BAC"])
-solutions.append("ABC")
-
-examples.append(["M","M","M","M"])
-solutions.append("M")
+examples.append(([[1,1],[2,2],[2,3]], 4))
+solutions.append([1,1,0,0])
 
 
 class TestStringMethods(unittest.TestCase):
@@ -30,7 +21,7 @@ class TestStringMethods(unittest.TestCase):
             self._test_one(examples[i], solutions[i])
 
     def _test_one(self, example, solution):
-        self.assertEqual(sol.rankTeams(example), solution)
+        self.assertEqual(sol.findingUsersActiveMinutes(example[0], example[1]), solution)
 
 
 if __name__ == '__main__':
