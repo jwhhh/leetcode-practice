@@ -10,3 +10,4 @@
 - [x] #1297 Maximum Number of Occurrences of a Substring
 - [x] #3099 Harshad Number
 - [x] #3100 Water Bottles II
+- [x] #3101 Count Alternating Subarrays
