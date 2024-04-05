@@ -4,6 +4,18 @@
 
 > 为小绿点点而活着！
 
+## Following 代码随想录
+
+https://github.com/youngyangyang04/leetcode-master
+
+### Array
+
+- [x] #704 Binary Search
+- [x] #27 Remove Element
+- [x] #977 Squares of a Sorted Array
+
+## Others
+
 - [x] #1366 Rank Teams by Votes
 - [x] #1817 Finding the Users Active Minutes
 - [x] #353 Design Snake Game
@@ -11,8 +23,3 @@
 - [x] #3099 Harshad Number
 - [x] #3100 Water Bottles II
 - [x] #3101 Count Alternating Subarrays
-- [x] #704 Binary Search
-- [x] #27 Remove Element
-- [x] #977 Squares of a Sorted Array
-
-<!-- https://github.com/youngyangyang04/leetcode-master -->
