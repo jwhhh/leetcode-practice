@@ -11,5 +11,7 @@
 - [x] #3099 Harshad Number
 - [x] #3100 Water Bottles II
 - [x] #3101 Count Alternating Subarrays
+- [x] #704 Binary Search
+- [x] #27 Remove Element
 
 <!-- https://github.com/youngyangyang04/leetcode-master -->

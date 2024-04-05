@@ -18,7 +18,7 @@ examples.append(([5], 5))
 solutions.append(0)
 
 
-class TestCountAlternatingSubarrays(unittest.TestCase):
+class Test(unittest.TestCase):
     def test_all(self):
         for i in range(len(examples)):
             self._test_one(examples[i], solutions[i])
