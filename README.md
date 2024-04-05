@@ -13,5 +13,6 @@
 - [x] #3101 Count Alternating Subarrays
 - [x] #704 Binary Search
 - [x] #27 Remove Element
+- [x] #977 Squares of a Sorted Array
 
 <!-- https://github.com/youngyangyang04/leetcode-master -->
