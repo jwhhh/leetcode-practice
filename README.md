@@ -14,7 +14,7 @@ https://github.com/youngyangyang04/leetcode-master
 - [x] #27 Remove Element
 - [x] #977 Squares of a Sorted Array
 - [x] #209 Minimum Size Subarray Sum
-- [ ] #59
+- [x] #59 Spiral Matrix II
 
 ## Others
 
