@@ -11,12 +11,6 @@ solutions = []
 examples.append(3)
 solutions.append([[1,2,3],[8,9,4],[7,6,5]])
 
-# 0, 3, 0, 3
-# 1, 3, 0, 3
-# 1, 3, 0, 2
-# 1, 2, 0, 2
-# 
-
 examples.append(1)
 solutions.append([[1]])
 
